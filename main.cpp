@@ -21,7 +21,7 @@ public:
 cOsoba::cOsoba()
 {
 	cout<<"konstruktor"<<endl;
-	imie="Piotr";
+    imie="Maciej";
 	nazwisko="Be";
 	wiek=22;
 }
